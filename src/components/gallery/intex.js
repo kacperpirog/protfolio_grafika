@@ -7,6 +7,7 @@ import {
   itemDataUA,
   itemData_rest,
 } from "../../localData";
+import { StyledDivGallery } from "./StyledGallery";
 // import ImageListItemBar from "@mui/material/ImageListItemBar";
 // import ListSubheader from "@mui/material/ListSubheader";
 // import IconButton from "@mui/material/IconButton";
@@ -14,7 +15,7 @@ import {
 
 const Gallery = () => {
   return (
-    <div>
+    <StyledDivGallery>
       <ImageList variant="masonry" cols={3} gap={8}>
         {itemDataUA.map((item) => (
           <ImageListItem key={item.img}>
@@ -63,7 +64,7 @@ const Gallery = () => {
           </ImageListItem>
         ))}
       </ImageList>
-    </div>
+    </StyledDivGallery>
   );
 };
 

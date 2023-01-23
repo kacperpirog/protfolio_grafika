@@ -27,13 +27,15 @@ import spot12 from "../assets/4f_spot/A4_plakat świąteczny_druk_9.jpg";
 
 import UA from "../assets/UA/1920x836.jpg";
 import UA2 from "../assets/UA/1920x836_637x836.jpg";
-import UA5 from "../assets/UA/MSK_4FSpot_01_v1.jpg";
-import UA6 from "../assets/UA/MSK_4FSpot_01_v2.jpg";
-import UA7 from "../assets/UA/MSK_4FSpot_01v2.jpg";
-import UA8 from "../assets/UA/MSK_4FSpot_01v3.jpg";
-import UA9 from "../assets/UA/MSK_4FSpot_02.jpg";
-import UA10 from "../assets/UA/WIZ-SSS_.jpg";
-import UA11 from "../assets/UA/wiz.jpg";
+import UA3 from "../assets/UA/238_3x231cm_skala1do10_ŚCIANKA-m_07.jpg";
+import UA4 from "../assets/UA/500x707_B2_10.jpg";
+import UA5 from "../assets/UA/602x582.jpg";
+import UA6 from "../assets/UA/637x836 slider mobile.jpg";
+import UA7 from "../assets/UA/1920x836_BTS_kod.jpg";
+import UA8 from "../assets/UA/wiz.jpg";
+import UA9 from "../assets/UA/200cmx200cm_flat_window_podgla_jpg.jpg";
+import UA10 from "../assets/UA/wizualizacja_baner_UA_1.jpg";
+import UA11 from "../assets/UA/wizualizacja_LP_UA.jpg";
 
 import rest from "../assets/rest/ATH.jpg";
 import rest2 from "../assets/rest/bergmen.jpg";
@@ -166,6 +168,18 @@ export const itemDataUA = [
     featured: true,
   },
 
+  {
+    img: UA3,
+    title: "4f_spot",
+
+    featured: true,
+  },
+  {
+    img: UA4,
+    title: "4f_spot",
+
+    featured: true,
+  },
   {
     img: UA5,
     title: "4f_spot",
