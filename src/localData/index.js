@@ -242,8 +242,7 @@ export const itemData4f_spot = [
   {
     img: spot3,
     title: "4f_spot",
-    rows: 2,
-    cols: 2,
+
     featured: true,
   },
   {
@@ -256,8 +255,7 @@ export const itemData4f_spot = [
   {
     img: spot5,
     title: "4f_spot",
-    rows: 2,
-    cols: 2,
+
     featured: true,
   },
   {
