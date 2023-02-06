@@ -8,7 +8,7 @@ import inetsport6 from "../assets/gallery/intersport/1180x525_DD_1_1.jpg";
 import inetsport7 from "../assets/gallery/intersport/1180x525_IIC_metcon_7.jpg";
 import inetsport8 from "../assets/gallery/intersport/121_cmx233_cm_Plakat_4.jpg";
 import inetsport9 from "../assets/gallery/intersport/1180x525_WEEKLYDEAL_rower.jpg";
-import inetsport10 from "../assets/gallery/intersport/1180x525_WEEKLYDEAL_rowery_junior.jpg";
+// import inetsport10 from "../assets/gallery/intersport/1180x525_WEEKLYDEAL_rowery_junior.jpg";
 import inetsport11 from "../assets/gallery/intersport/1920x1080_21_WIOSNA_NIKE_BQ5671_16580113kw.jpg";
 import inetsport12 from "../assets/gallery/intersport/1200x1200_wielka-wyprzedarz3.jpg";
 
