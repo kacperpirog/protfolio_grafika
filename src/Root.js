@@ -1,12 +1,12 @@
 import React from "react";
-import Gallery from "./components/gallery/intex";
-import { StyledDivRoot } from "./StyledRoot";
+
+import Router from "./Routing/Router";
 
 const Root = () => {
   return (
-    <StyledDivRoot>
-      <Gallery />
-    </StyledDivRoot>
+    <>
+      <Router />
+    </>
   );
 };
 
