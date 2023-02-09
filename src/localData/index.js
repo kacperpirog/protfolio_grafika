@@ -1,220 +1,93 @@
-import inetsport from "../assets/gallery/intersport/1180x320.jpg";
-import inetsport1 from "../assets/gallery/intersport/1180x400_1v2.jpg";
-import inetsport2 from "../assets/gallery/intersport/1180x525 inter.jpg";
-import inetsport3 from "../assets/gallery/intersport/1180x525-.jpg";
-import inetsport4 from "../assets/gallery/intersport/1180x525_Bike&trip_2.jpg";
-import inetsport5 from "../assets/gallery/intersport/1180x525_camping_9.jpg";
-import inetsport6 from "../assets/gallery/intersport/1180x525_DD_1_1.jpg";
-import inetsport7 from "../assets/gallery/intersport/1180x525_IIC_metcon_7.jpg";
-import inetsport8 from "../assets/gallery/intersport/121_cmx233_cm_Plakat_4.jpg";
-import inetsport9 from "../assets/gallery/intersport/1180x525_WEEKLYDEAL_rower.jpg";
-// import inetsport10 from "../assets/gallery/intersport/1180x525_WEEKLYDEAL_rowery_junior.jpg";
-import inetsport11 from "../assets/gallery/intersport/1920x1080_21_WIOSNA_NIKE_BQ5671_16580113kw.jpg";
-import inetsport12 from "../assets/gallery/intersport/1200x1200_wielka-wyprzedarz3.jpg";
+import DTP from "../assets/DTP/121_cmx233_cm_Plakat_4.jpg";
+import DTP1 from "../assets/DTP/4F_menu_07_2022_A4_14_Page_1.jpg";
+import DTP2 from "../assets/DTP/4F_menu_07_2022_A4_14_Page_2.jpg";
+import DTP3 from "../assets/DTP/4F_menu_07_2022_A4_14_Page_4.jpg";
+import DTP4 from "../assets/DTP/4Fspot_POS_pietro_02.jpg";
+import DTP5 from "../assets/DTP/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_01_01.jpg";
+import DTP6 from "../assets/DTP/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_03_02.jpg";
+import DTP7 from "../assets/DTP/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_DLA-PRASY.jpg";
+import DTP8 from "../assets/DTP/4FSPOT_zeskanuj-kod-i-odwiedź-nasxx.jpg";
+import DTP9 from "../assets/DTP/500x707_B2_10.jpg";
+import DTP10 from "../assets/DTP/9x5cm_wiz01.jpg";
+import DTP11 from "../assets/DTP/A4_plakat świąteczny_druk_9.jpg";
+import DTP12 from "../assets/DTP/etykiety_final_Page_11.jpg";
 
-import spot from "../assets/4f_spot/1640-x-924-piks_tło_FB_02.jpg";
-import spot2 from "../assets/4f_spot/1640-x-924-piks_tło_FB_05.jpg";
-import spot3 from "../assets/4f_spot/podkładka_4 wersje_01.jpg";
-import spot4 from "../assets/4f_spot/4F_menu_07_2022_A4_14_Page_1.jpg";
-import spot5 from "../assets/4f_spot/4F_menu_07_2022_A4_14_Page_2.jpg";
-import spot6 from "../assets/4f_spot/4F_menu_07_2022_A4_14_Page_4.jpg";
-import spot7 from "../assets/4f_spot/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_DLA-PRASY.jpg";
-import spot8 from "../assets/4f_spot/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_01_01.jpg";
-import spot9 from "../assets/4f_spot/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_03_02.jpg";
-import spot10 from "../assets/4f_spot/4Fspot_POS_pietro_02.jpg";
-import spot11 from "../assets/4f_spot/4FSPOT_zeskanuj-kod-i-odwiedź-nasxx.jpg";
-import spot12 from "../assets/4f_spot/A4_plakat świąteczny_druk_9.jpg";
+import LP1 from "../assets/LP/1920x836_BTS_kod.jpg";
+import LP2 from "../assets/LP/desktop_LP_SWACKET-TRAIN.jpg";
+import LP3 from "../assets/LP/LPv1.jpg";
+import LP4 from "../assets/LP/LPv2.jpg";
+import LP5 from "../assets/LP/mobile_LP_SWACKET-TRAIN.jpg";
+import LP6 from "../assets/LP/WIZ-SSS_.jpg";
+import LP7 from "../assets/LP/wiz.jpg";
+import LP8 from "../assets/LP/wizualizacja_baner_UA_1.jpg";
+import LP9 from "../assets/LP/wizualizacja_LP_UA.jpg";
 
-import UA from "../assets/UA/1920x836.jpg";
-import UA2 from "../assets/UA/1920x836_637x836.jpg";
-import UA7 from "../assets/UA/238_3x231cm_skala1do10_ŚCIANKA-m_07.jpg";
-import UA4 from "../assets/UA/500x707_B2_10.jpg";
-import UA5 from "../assets/UA/602x582.jpg";
-import UA6 from "../assets/UA/637x836 slider mobile.jpg";
-import UA3 from "../assets/UA/1920x836_BTS_kod.jpg";
-// import UA8 from "../assets/UA/wiz.jpg";
-import UA9 from "../assets/UA/200cmx200cm_flat_window_podgla_jpg.jpg";
-import UA10 from "../assets/UA/wizualizacja_baner_UA_1.jpg";
-import UA11 from "../assets/UA/01.jpg";
-import UA12 from "../assets/UA/02.jpg";
-import UA13 from "../assets/UA/03.jpg";
+import Sm1 from "../assets/Sm/1080x1080v1.jpg";
+import Sm2 from "../assets/Sm//1080x1080v2.jpg";
+import Sm3 from "../assets/Sm/1080x1920v1.jpg";
+import Sm4 from "../assets/Sm/1080x1920v2.jpg";
+import Sm5 from "../assets/Sm/MSK_4FSpot_01v3.jpg";
+import Sm6 from "../assets/Sm/1200x1200_wielka-wyprzedarz3.jpg";
+import Sm7 from "../assets/Sm/1640-x-924-piks_tło_FB_02.jpg";
+import Sm8 from "../assets/Sm/1920x1080_21_WIOSNA_NIKE_BQ5671_16580113kw.jpg";
+import Sm9 from "../assets/Sm/A5_ sneakersy.jpg";
 
-import rest from "../assets/rest/ATH.jpg";
-import rest2 from "../assets/rest/bergmen.jpg";
-import rest3 from "../assets/rest/deblin_folder_drukf-1.jpg";
-import rest4 from "../assets/rest/elbi-logo.jpg";
-import rest5 from "../assets/rest/grafikav4-scaled.jpg";
-import rest6 from "../assets/rest/hampi logo.jpg";
-import rest7 from "../assets/rest/jachna_logo.jpg";
-import rest8 from "../assets/rest/kacper_pirog_zadanie-v2-scaled.jpg";
-import rest9 from "../assets/rest/KM_Strona_2.jpg";
-import rest10 from "../assets/rest/Plakat-A31_drukpod.jpg";
-import rest11 from "../assets/rest/plakat.jpg";
-import rest12 from "../assets/rest/sappi.jpg";
+import Wiz1 from "../assets/Wizualziacje/01.jpg";
+import Wiz2 from "../assets/Wizualziacje/02.jpg";
+import Wiz3 from "../assets/Wizualziacje/03.jpg";
+import Wiz4 from "../assets/Wizualziacje/916-2.jpg";
+import Wiz5 from "../assets/Wizualziacje/straefa-kibica_.jpg";
+import Wiz6 from "../assets/Wizualziacje/strefa-kibica_ekran_02.jpg";
+import Wiz7 from "../assets/Wizualziacje/wiz-lodówka.jpg";
+import Wiz8 from "../assets/Wizualziacje/wiz.jpg";
+import Wiz9 from "../assets/Wizualziacje/wiz_03.jpg";
 
-export const itemDataIntersport = [
-  {
-    id: 1,
-    img: inetsport,
-    title: "inetsport",
-  },
-  {
-    id: 2,
-    img: inetsport1,
-    title: "inetsport",
-  },
-  {
-    id: 3,
-    img: inetsport2,
-    title: "inetsport",
-  },
-  {
-    id: 4,
-    img: inetsport3,
-    title: "inetsport",
-  },
-  {
-    id: 5,
-    img: inetsport4,
-    title: "inetsport",
-  },
-  {
-    id: 6,
-    img: inetsport5,
-    title: "inetsport",
-  },
-  {
-    id: 7,
-    img: inetsport6,
-    title: "inetsport",
-  },
-  {
-    id: 8,
-    img: inetsport7,
-    title: "inetsport",
-  },
-  {
-    id: 9,
-    img: inetsport9,
-    title: "inetsport",
-  },
-
-  {
-    id: 11,
-    img: inetsport11,
-    title: "inetsport",
-  },
-  {
-    id: 12,
-    img: inetsport12,
-    title: "inetsport",
-  },
-  {
-    id: 12,
-    img: inetsport8,
-    title: "inetsport",
-  },
+export const itemData_DTP = [
+  { id: 1, img: DTP, title: "Dtp" },
+  { id: 2, img: DTP1, title: "Dtp" },
+  { id: 3, img: DTP2, title: "Dtp" },
+  { id: 4, img: DTP3, title: "Dtp" },
+  { id: 5, img: DTP4, title: "Dtp" },
+  { id: 6, img: DTP5, title: "Dtp" },
+  { id: 7, img: DTP6, title: "Dtp" },
+  { id: 8, img: DTP7, title: "Dtp" },
+  { id: 9, img: DTP8, title: "Dtp" },
+  { id: 10, img: DTP9, title: "Dtp" },
+  { id: 11, img: DTP10, title: "Dtp" },
+  { id: 12, img: DTP11, title: "Dtp" },
+  { id: 13, img: DTP12, title: "Dtp" },
+];
+export const itemData_LP = [
+  { id: 2, img: LP1, title: "LP" },
+  { id: 3, img: LP2, title: "LP" },
+  { id: 4, img: LP3, title: "LP" },
+  { id: 5, img: LP4, title: "LP" },
+  { id: 6, img: LP5, title: "LP" },
+  { id: 7, img: LP6, title: "LP" },
+  { id: 8, img: LP7, title: "LP" },
+  { id: 9, img: LP8, title: "LP" },
+  { id: 10, img: LP9, title: "LP" },
+];
+export const itemData_Sm = [
+  { id: 2, img: Sm1, title: "Sm" },
+  { id: 3, img: Sm2, title: "Sm" },
+  { id: 4, img: Sm3, title: "Sm" },
+  { id: 5, img: Sm4, title: "Sm" },
+  { id: 6, img: Sm5, title: "Sm" },
+  { id: 7, img: Sm6, title: "Sm" },
+  { id: 8, img: Sm7, title: "Sm" },
+  { id: 9, img: Sm8, title: "Sm" },
+  { id: 10, img: Sm9, title: "Sm" },
 ];
 
-export const itemDataUA = [
-  {
-    id: 1,
-    img: UA,
-    title: "4f_spot",
-  },
-  {
-    id: 2,
-    img: UA2,
-    title: "4f_spot",
-  },
-
-  {
-    id: 3,
-    img: UA3,
-    title: "4f_spot",
-  },
-  {
-    id: 4,
-    img: UA4,
-    title: "4f_spot",
-  },
-  {
-    id: 5,
-    img: UA5,
-    title: "4f_spot",
-  },
-  {
-    id: 6,
-    img: UA6,
-    title: "4f_spot",
-  },
-  {
-    id: 7,
-    img: UA7,
-    title: "4f_spot",
-  },
-
-  {
-    id: 9,
-    img: UA9,
-    title: "4f_spot",
-  },
-  {
-    id: 10,
-    img: UA10,
-    title: "4f_spot",
-  },
-  {
-    id: 11,
-    img: UA11,
-    title: "4f_spot",
-  },
-  {
-    id: 12,
-    img: UA12,
-    title: "4f_spot",
-  },
-  {
-    id: 13,
-    img: UA13,
-    title: "4f_spot",
-  },
-];
-
-export const itemData4f_spot = [
-  { id: 1, img: spot, title: "4f_spot" },
-  { id: 2, img: spot2, title: "4f_spot" },
-  {
-    id: 3,
-    img: spot3,
-    title: "4f_spot",
-  },
-  { id: 4, img: spot4, title: "4f_spot" },
-  {
-    id: 5,
-    img: spot5,
-    title: "4f_spot",
-  },
-  { id: 1, img: spot6, title: "4f_spot" },
-  { id: 2, img: spot7, title: "4f_spot" },
-  { id: 3, img: spot8, title: "4f_spot" },
-  { id: 4, img: spot9, title: "4f_spot" },
-  { id: 5, img: spot10, title: "4f_spot" },
-  { id: 6, img: spot11, title: "4f_spot" },
-  { id: 7, img: spot12, title: "4f_spot" },
-];
-
-export const itemData_rest = [
-  { id: 1, img: rest, title: "4f_spot" },
-  { id: 2, img: rest2, title: "4f_spot" },
-  { id: 3, img: rest3, title: "4f_spot" },
-  { id: 4, img: rest4, title: "4f_spot" },
-  { id: 5, img: rest5, title: "4f_spot" },
-  { id: 6, img: rest6, title: "4f_spot" },
-  { id: 7, img: rest7, title: "4f_spot" },
-  { id: 8, img: rest8, title: "4f_spot" },
-  { id: 8, img: rest9, title: "4f_spot" },
-  { id: 10, img: rest10, title: "4f_spot" },
-  { id: 11, img: rest11, title: "4f_spot" },
-  { id: 12, img: rest12, title: "4f_spot" },
+export const itemData_Wiz = [
+  { id: 2, img: Wiz1, title: "Wiz" },
+  { id: 3, img: Wiz2, title: "Wiz" },
+  { id: 4, img: Wiz3, title: "Wiz" },
+  { id: 5, img: Wiz4, title: "Wiz" },
+  { id: 6, img: Wiz5, title: "Wiz" },
+  { id: 7, img: Wiz6, title: "Wiz" },
+  { id: 8, img: Wiz7, title: "Wiz" },
+  { id: 9, img: Wiz8, title: "Wiz" },
+  { id: 10, img: Wiz9, title: "Wiz" },
 ];
