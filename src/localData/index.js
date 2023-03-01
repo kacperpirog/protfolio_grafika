@@ -84,8 +84,8 @@ export const itemData_LP = [
   { id: 13, img: LP11, title: "LP" },
   { id: 14, img: LP12, title: "LP" },
   { id: 15, img: LP13, title: "LP" },
-  { id: 15, img: LP14, title: "LP" },
-  { id: 15, img: LP15, title: "LP" },
+  { id: 16, img: LP14, title: "LP" },
+  { id: 17, img: LP15, title: "LP" },
 ];
 export const itemData_Sm = [
   { id: 2, img: Sm9, title: "Sm" },
