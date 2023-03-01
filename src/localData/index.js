@@ -5,12 +5,14 @@ import DTP3 from "../assets/DTP/4F_menu_07_2022_A4_14_Page_4.jpg";
 import DTP4 from "../assets/DTP/4Fspot_POS_pietro_02.jpg";
 import DTP5 from "../assets/DTP/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_01_01.jpg";
 import DTP6 from "../assets/DTP/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_03_02.jpg";
-import DTP7 from "../assets/DTP/4Fspot_VOUCHER_skala1do10_21x10cm_3mm-spad_DLA-PRASY.jpg";
+import DTP7 from "../assets/DTP/kacper_pirog_zadanie-v2-scaled.jpg";
 import DTP8 from "../assets/DTP/4FSPOT_zeskanuj-kod-i-odwiedź-nasxx.jpg";
 import DTP9 from "../assets/DTP/500x707_B2_10.jpg";
 import DTP10 from "../assets/DTP/9x5cm_wiz01.jpg";
 import DTP11 from "../assets/DTP/A4_plakat świąteczny_druk_9.jpg";
 import DTP12 from "../assets/DTP/etykiety_final_Page_11.jpg";
+import DTP13 from "../assets/DTP/grafikav4-scaled.jpg";
+import DTP14 from "../assets/DTP/ulotkat-1.jpg";
 
 import LP1 from "../assets/LP/1920x836_BTS_kod.jpg";
 import LP2 from "../assets/LP/desktop_LP_SWACKET-TRAIN.jpg";
@@ -21,16 +23,25 @@ import LP6 from "../assets/LP/WIZ-SSS_.jpg";
 import LP7 from "../assets/LP/wiz.jpg";
 import LP8 from "../assets/LP/wizualizacja_baner_UA_1.jpg";
 import LP9 from "../assets/LP/wizualizacja_LP_UA.jpg";
+import LP10 from "../assets/LP/743x288_3.jpg";
+import LP11 from "../assets/LP/1180x320.jpg";
+import LP12 from "../assets/LP/1180x400_1v2.jpg";
+import LP13 from "../assets/LP/1180x525 inter.jpg";
+import LP14 from "../assets/LP/1180x525-.jpg";
+import LP15 from "../assets/LP/1180x525_Bike&trip_2.jpg";
 
 import Sm1 from "../assets/Sm/1080x1080v1.jpg";
 import Sm2 from "../assets/Sm//1080x1080v2.jpg";
 import Sm3 from "../assets/Sm/1080x1920v1.jpg";
-import Sm4 from "../assets/Sm/1080x1920v2.jpg";
+import Sm4 from "../assets/Sm/637x836 slider mobile.jpg";
 import Sm5 from "../assets/Sm/MSK_4FSpot_01v3.jpg";
 import Sm6 from "../assets/Sm/1200x1200_wielka-wyprzedarz3.jpg";
 import Sm7 from "../assets/Sm/1640-x-924-piks_tło_FB_02.jpg";
 import Sm8 from "../assets/Sm/1920x1080_21_WIOSNA_NIKE_BQ5671_16580113kw.jpg";
 import Sm9 from "../assets/Sm/A5_ sneakersy.jpg";
+import Sm10 from "../assets/Sm/640x800_1.jpg";
+import Sm11 from "../assets/Sm/1920x1080_damskie.jpg";
+import Sm12 from "../assets/Sm/602x582.jpg";
 
 import Wiz1 from "../assets/Wizualziacje/01.jpg";
 import Wiz2 from "../assets/Wizualziacje/02.jpg";
@@ -56,6 +67,8 @@ export const itemData_DTP = [
   { id: 11, img: DTP10, title: "Dtp" },
   { id: 12, img: DTP11, title: "Dtp" },
   { id: 13, img: DTP12, title: "Dtp" },
+  { id: 14, img: DTP13, title: "Dtp" },
+  { id: 15, img: DTP14, title: "Dtp" },
 ];
 export const itemData_LP = [
   { id: 2, img: LP1, title: "LP" },
@@ -66,10 +79,16 @@ export const itemData_LP = [
   { id: 7, img: LP6, title: "LP" },
   { id: 8, img: LP7, title: "LP" },
   { id: 9, img: LP8, title: "LP" },
-  { id: 10, img: LP9, title: "LP" },
+  { id: 11, img: LP9, title: "LP" },
+  { id: 12, img: LP10, title: "LP" },
+  { id: 13, img: LP11, title: "LP" },
+  { id: 14, img: LP12, title: "LP" },
+  { id: 15, img: LP13, title: "LP" },
+  { id: 15, img: LP14, title: "LP" },
+  { id: 15, img: LP15, title: "LP" },
 ];
 export const itemData_Sm = [
-  { id: 2, img: Sm1, title: "Sm" },
+  { id: 2, img: Sm9, title: "Sm" },
   { id: 3, img: Sm2, title: "Sm" },
   { id: 4, img: Sm3, title: "Sm" },
   { id: 5, img: Sm4, title: "Sm" },
@@ -77,7 +96,10 @@ export const itemData_Sm = [
   { id: 7, img: Sm6, title: "Sm" },
   { id: 8, img: Sm7, title: "Sm" },
   { id: 9, img: Sm8, title: "Sm" },
-  { id: 10, img: Sm9, title: "Sm" },
+  { id: 10, img: Sm1, title: "Sm" },
+  { id: 11, img: Sm10, title: "Sm" },
+  { id: 12, img: Sm11, title: "Sm" },
+  { id: 13, img: Sm12, title: "Sm" },
 ];
 
 export const itemData_Wiz = [
