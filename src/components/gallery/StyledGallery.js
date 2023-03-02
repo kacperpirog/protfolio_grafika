@@ -77,6 +77,7 @@ export const StyledDivGallery2 = styled.div`
 
   @media (max-width: 767px) {
     .gallery {
+      display: flex;
       flex-direction: column;
     }
     .thumbnails img {
@@ -88,7 +89,6 @@ export const StyledDivGallery2 = styled.div`
     }
 
     .gallery img {
-      height: 300px;
     }
 
     .thumbnails {
