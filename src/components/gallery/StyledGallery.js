@@ -83,7 +83,7 @@ export const StyledDivGallery2 = styled.div`
     .thumbnails img {
       width: 50px;
       height: 50px;
-      margin: 0 10px;
+      margin: 10px 10px;
       object-fit: cover;
       cursor: pointer;
     }
