@@ -47,7 +47,7 @@ export const StyledDivGallery2 = styled.div`
 
   .gallery img {
     width: 100%;
-    max-width: 500px;
+    max-width: 500px;44
     height: 500px;
     object-fit: contain;
     margin-bottom: 5px;
