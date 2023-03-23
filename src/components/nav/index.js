@@ -23,10 +23,10 @@ const Navigation = () => {
             <NavLink to={routes.home}>Doświadczenie</NavLink>
           </NavItem>
           <NavItem>
-            <NavLink to={routes.about}>Portfolio</NavLink>
+            <NavLink to={routes.portfolio}>Portfolio</NavLink>
           </NavItem>
           <NavItem>
-            <NavLink to={routes.portfolio}>Contact</NavLink>
+            <NavLink to={routes.about}>Contact</NavLink>
           </NavItem>
         </NavList>
       </NavRight>

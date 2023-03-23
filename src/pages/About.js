@@ -1,10 +1,10 @@
 import React from "react";
-import Gallery from "../components/gallery/intex";
+import Contact from "../components/contact/";
 
 const About = () => {
   return (
     <div>
-      <Gallery />
+      <Contact />
     </div>
   );
 };

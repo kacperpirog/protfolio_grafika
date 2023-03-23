@@ -14,8 +14,8 @@ const Router = () => {
       <Navigation />
       <Routes>
         <Route exact path={routes.home} element={<Home />} />
-        <Route path={routes.about} element={<About />} />
         <Route path={routes.portfolio} element={<Portfolio />} />
+        <Route path={routes.about} element={<About />} />
         {/* <Route path={routes.contact} element={<Contact />} /> */}
       </Routes>
       <Footer />
